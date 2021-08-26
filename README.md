@@ -1,6 +1,4 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Techy Harsith | Techuu Ra
- 
- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
  ## I'm a Youtuber, Developer, Creator, Mentor and Graphics Designer!!
  
@@ -9,7 +7,9 @@
 - 🔻 I’m currently learning **App development**
 - 🔻 reach me at **TechyHarsith@gmail.com**
 
-<h2 align="left">Connect with me</h2> 
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/86002583/130923838-3aee5286-825a-4291-a1cc-25fb25b7ce85.gif" width="500" height="320" />
+ 
+<h2 align="left">Connect with me</h2>
 <p align="left">
       <a href="https://www.youtube.com/channel/UC-UbA2RwlbmS6DAm-2WmbLQ">
     <img src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /> 
@@ -24,7 +24,7 @@
 </a>
 </p>
 
- ---           
+ ---          
             
 <h3> Languages And Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 27px> </h3>
 <a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=python&sort= > <img width ='26px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
@@ -74,3 +74,6 @@
 [youtube]: https://m.youtube.com/channel/UC-UbA2RwlbmS6DAm-2WmbLQ
 [instagram]: https://www.instagram.com/techuura/
 [Telegram]: https://t.me/TechuuRaV2A
+
+
+
