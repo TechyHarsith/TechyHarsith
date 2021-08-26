@@ -1,11 +1,9 @@
-![8EDBE5DA-07FC-4F65-899B-3397DDC4656C](https://user-images.githubusercontent.com/86002583/130753272-c063c7cf-78b1-4bab-9b23-b507f2cbb51c.jpeg)
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Techy Harsith | Techuu Ra
  
+ <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
-
-   ## I'm a Youtuber, Developer, Creator, Mentor and Graphics Designer!!
-   
-   
+ ## I'm a Youtuber, Developer, Creator, Mentor and Graphics Designer!!
+ 
 - 🔻 You can find my projects here [Telegram]
 - 🔻 I’m currently working on **An AI Assistant for my social meda platforms**
 - 🔻 I’m currently learning **App development**
