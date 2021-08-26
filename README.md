@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Techy Harsith | Techuu Ra
-
+---
  ## I'm a Youtuber, Developer, Creator, Mentor and Graphics Designer!!
- 
+
 - 🔻 You can find my projects here [Telegram]
 - 🔻 I’m currently working on **An AI Assistant for my social meda platforms**
 - 🔻 I’m currently learning **App development**
