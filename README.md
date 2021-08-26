@@ -1,13 +1,17 @@
 ![8EDBE5DA-07FC-4F65-899B-3397DDC4656C](https://user-images.githubusercontent.com/86002583/130753272-c063c7cf-78b1-4bab-9b23-b507f2cbb51c.jpeg)
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Techy Harsith | Techuu Ra
+ 
+
 
    ## I'm a Youtuber, Developer, Creator, Mentor and Graphics Designer!!
+   
+   
 - 🔻 You can find my projects here [Telegram]
 - 🔻 I’m currently working on **An AI Assistant for my social meda platforms**
 - 🔻 I’m currently learning **App development**
 - 🔻 reach me at **TechyHarsith@gmail.com**
 
-<h2 align="left">Connect with me </h3>
+<h2 align="left">Connect with me</h2> 
 <p align="left">
       <a href="https://www.youtube.com/channel/UC-UbA2RwlbmS6DAm-2WmbLQ">
     <img src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /> 
@@ -22,7 +26,9 @@
 </a>
 </p>
 
-<h3> Languages & Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 27px> </h3>
+ ---           
+            
+<h3> Languages And Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 27px> </h3>
 <a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=python&sort= > <img width ='26px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=c&sort= > <img width ='26px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
 <a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=cpp&sort= > <img width ='26px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
@@ -53,7 +59,6 @@
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Techy Harsith's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TechyHarsith&show_icons=true&hide_border=true" />
-
 </details>
 
 <details>
