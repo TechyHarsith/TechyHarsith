@@ -50,7 +50,7 @@
 ### 🔻Latest Youtube Videos
 <!-- YOUTUBE:START -->
 - [Upgrade To Windows 11 Official || Install Windows 11 || All Features In Windows 11 || In Telugu](https://www.youtube.com/watch?v=Yt04YODz2x4)
-- [iQOO Z3 5G ll Features & Detailed Review ll in Telugu.](https://www.youtube.com/watch?v=kdR_cOAIK-o)
+- [iQOO Z3 5G ll Features &amp; Detailed Review ll in Telugu.](https://www.youtube.com/watch?v=kdR_cOAIK-o)
 - [Improve your Internet Speed II Tech Tips](https://www.youtube.com/watch?v=6yT8YQDwTRo)
 - [True Caller Amazing Features II New Safety App](https://www.youtube.com/watch?v=KUBpbjAFq2k)
 - [Tech Tips S1 E2 II How to Remove Annoying Google ads.](https://www.youtube.com/watch?v=vFKAXSYU-k0)
